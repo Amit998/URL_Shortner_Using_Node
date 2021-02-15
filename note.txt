@@ -1,0 +1,4 @@
+mongodb+srv://root:<zxyp#776>@cluster0.rrmvr.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+
+npm i -D nodemon
